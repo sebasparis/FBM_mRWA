@@ -9,7 +9,7 @@
 #include <complex>
 #include <armadillo> 
 #include <fftw3.h>
-#include "../lib/floquet.h"
+#include "floquet.h"
 
 typedef double (*BATH_FUNC)(double);
 
